@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BasicWebApp", "BasicWebApp\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormProject", "WebFormProject\WebFormProject.csproj", "{B8EE1B00-D97E-4F75-9510-45C1C814CD0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChallange1", "CodeChallange1\CodeChallange1.csproj", "{615AD536-946B-47A1-B209-57D99C5B05CE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{B8EE1B00-D97E-4F75-9510-45C1C814CD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B8EE1B00-D97E-4F75-9510-45C1C814CD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B8EE1B00-D97E-4F75-9510-45C1C814CD0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{615AD536-946B-47A1-B209-57D99C5B05CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{615AD536-946B-47A1-B209-57D99C5B05CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{615AD536-946B-47A1-B209-57D99C5B05CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{615AD536-946B-47A1-B209-57D99C5B05CE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
