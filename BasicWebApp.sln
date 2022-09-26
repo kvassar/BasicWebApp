@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebFormProject", "WebFormPr
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodeChallange1", "CodeChallange1\CodeChallange1.csproj", "{615AD536-946B-47A1-B209-57D99C5B05CE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BasicArithmiticOperators", "BasicArithmiticOperators\BasicArithmiticOperators.csproj", "{4DD054B5-01F1-4C15-B7E3-A4E07B7DA3D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{615AD536-946B-47A1-B209-57D99C5B05CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{615AD536-946B-47A1-B209-57D99C5B05CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{615AD536-946B-47A1-B209-57D99C5B05CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DD054B5-01F1-4C15-B7E3-A4E07B7DA3D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DD054B5-01F1-4C15-B7E3-A4E07B7DA3D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DD054B5-01F1-4C15-B7E3-A4E07B7DA3D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DD054B5-01F1-4C15-B7E3-A4E07B7DA3D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
